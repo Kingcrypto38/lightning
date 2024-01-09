@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20210416
+FROM ubuntu:focal
 MAINTAINER Christian Decker <decker.christian@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
