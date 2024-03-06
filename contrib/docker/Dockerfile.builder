@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:20.04
 MAINTAINER Christian Decker <decker.christian@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
